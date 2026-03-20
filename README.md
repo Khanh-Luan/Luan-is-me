@@ -18,8 +18,6 @@ Tự hào là sinh viên ngành **Kỹ thuật Dữ liệu (Data Engineering)** 
 - **Mini Data Warehouse:** Xây dựng kho dữ liệu quy mô nhỏ, thiết kế database schema và thực thi các câu lệnh truy vấn với SQLite.
 
 ## 🏆 Chứng chỉ
-![Gemini Certified Educator](link_anh_chung_chi_cua_ban.jpg)
-*(Bạn có thể tải ảnh chứng chỉ lên GitHub và thay thế `link_anh_chung_chi_cua_ban.jpg` bằng đường dẫn thực tế của ảnh nhé!)*
-
+![Gemini Certified Educator]([link_anh_chung_chi_cua_ban.jpg](https://edu.google.accredible.com/4d21b9ba-2bf3-4d8c-879f-54b4d9348d53#acc.cYwi84fF))
 ---
 📫 **Kết nối với mình:** Cùng thảo luận về Data, AI và Công nghệ nhé!
